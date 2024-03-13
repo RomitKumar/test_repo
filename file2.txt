@@ -6,3 +6,4 @@ A change in file 1
 B change in file 1
 change z
 some other intermediate change
+another intermediate change
