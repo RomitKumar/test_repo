@@ -5,3 +5,4 @@ Some more and other changes in repo 0 file 1
 Intermediate change
 change x
 change y
+change z
