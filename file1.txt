@@ -2,3 +2,4 @@ This is file1
 There is some more changes in file1
 Some changes in repo 0 file 1
 Some more and other changes in repo 0 file 1
+Intermediate change
