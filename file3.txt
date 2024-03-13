@@ -5,3 +5,4 @@ B change in file 3
 C change in file 3
 Some change in repo 0 and repo4
 A change in repo5 and repo0
+A change in repo_6
